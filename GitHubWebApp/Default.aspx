@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h2>This app is to test GitHub Azure Web App integration.</h2>
+            <h2>2ND vERSION This app is to test GitHub Azure Web App integration.</h2>
         </div>
     </form>
 </body>
